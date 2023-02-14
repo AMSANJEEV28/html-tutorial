@@ -42,5 +42,16 @@ We can use different sizes of our heading. HTML provides 6 level of headings. Th
 ### Paragraph Tags
 `<p></p>`
 
-### Horizontal Lines
+### Line Break
+`<br />` Anything following it starts from the next line. This tag is an example of an empty element, where you do not need opening and closing tags, as there is nothing to go in between them.
 
+### Horizontal Lines
+Horizontal lines are used to visually break-up sections of a document. The `<hr>` tag creates a line from the current position in the document to the right margin and breaks the line accordingly.
+
+Again `<hr />` tag is an example of the empty element, where you do not need opening and closing tags, as there is nothing to go in between them.
+
+### Preserve Formatting
+Sometimes, you want your text to follow the exact format of how it is written in the HTML document. In these cases, you can use the preformatted tag `<pre>`. Any text between the opening `<pre>` tag and the closing `</pre>` tag will preserve the formatting of the source document.
+
+### Centering Content
+You can use `<center>` tag to put any content in the center of the page or any table cell.
