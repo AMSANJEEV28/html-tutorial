@@ -15,11 +15,9 @@
 4. Game Development
 
 ### HTML Tags
-1. <!DOCTYPE html>
-This tag defines the document type and HTML version.
+1. <!DOCTYPE html> : This tag defines the document type and HTML version.
        
-2. <html>
-This tag encloses the complete HTML document and mainly comprises of document header `<head></head>` and document body `<body></body>` tags.
+2. <html> : This tag encloses the complete HTML document and mainly comprises of document header `<head></head>` and document body `<body></body>` tags.
        
 3. <head>
     
